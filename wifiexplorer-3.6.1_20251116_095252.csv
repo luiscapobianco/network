@@ -1,0 +1,110 @@
+BSSID,Network Name,Vendor,Annotations,Signal (%),Channel,Channel Width,Band,Mode,Generation,Security,Max Rate (Mbps),Seen
+C6:C9:E3:A1:F7:1E,⁣⁣Hidden Network⁣⁣,TP-Link,,75,8,40 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),573.5,2025/11/16 09:52:56 AM
+8A:2A:A8:81:E5:C2,admin,Ubiquiti Networks,,81,6,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:51:54 AM
+80:2A:A8:82:F1:97,cachapa,Ubiquiti Networks,,56,48,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:56 AM
+92:2A:A8:81:E5:C2,⁣⁣Hidden Network⁣⁣,Ubiquiti Networks,,81,6,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:51:54 AM
+C0:C9:E3:A1:F7:1F,Atlanta,TP-Link,,48,36,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),1201,2025/11/16 09:52:56 AM
+86:2A:A8:81:E5:C2,oficina,Ubiquiti Networks,,82,6,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:51:10 AM
+9C:A5:70:23:27:E4,⁣⁣Hidden Network⁣⁣,eero,,17,48,160 MHz,5 GHz,a/n/ac/ax,6,WPA3 (SAE),2402,2025/11/16 09:49:08 AM
+70:4F:57:E4:7F:6F,FiberCorp WiFi182,TP-Link,,61,2,20 MHz,2.4 GHz,b/g/n,4,WPA/WPA2 (PSK),144.4,2025/11/16 09:52:56 AM
+D4:1A:D1:15:17:82,Zyxel_5073,Zyxel,,55,1,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),144.4,2025/11/16 09:52:56 AM
+C8:9C:BB:57:06:CD,Personal-WiFi-FE7-5Ghz,T&W Electronics,,6,161,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:51:40 AM
+9C:A5:70:23:27:E8,⁣⁣Hidden Network⁣⁣,eero,,15,48,160 MHz,5 GHz,a/n/ac/ax,6,,2402,2025/11/16 09:49:38 AM
+98:77:E7:39:56:84,Gonzalo EI-5GHz,Kaon Group,,10,52,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+8A:2A:A8:82:F1:97,admin,Ubiquiti Networks,,56,48,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:56 AM
+C0:C9:E3:A1:F7:1E,Atlanta,TP-Link,,80,8,40 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),573.5,2025/11/16 09:52:56 AM
+9A:2A:A8:82:F1:97,guest,Ubiquiti Networks,,58,48,80 MHz,5 GHz,a/n/ac,5,,1300,2025/11/16 09:52:56 AM
+86:2A:A8:82:F1:97,oficina,Ubiquiti Networks,,56,48,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:56 AM
+62:3D:29:29:95:8C,UEBD526,Huawei,,22,153,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),1201,2025/11/16 09:52:40 AM
+8E:2A:A8:81:F1:97,IdiOT,Ubiquiti Networks,,50,11,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:52:56 AM
+80:2A:A8:81:E5:C2,cachapa,Ubiquiti Networks,,82,6,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:52:56 AM
+70:4F:57:E4:7F:70,FiberCorp WiFi182_5G,TP-Link,,26,40,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),433.3,2025/11/16 09:52:56 AM
+D4:B7:09:DA:53:F0,IPLAN-ROCAN75-5G,ZTE,,8,108,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+D4:1A:D1:15:17:83,Zyxel_5073,Zyxel,,48,104,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+7A:EB:46:74:11:28,Personal-669,Huawei,,67,64,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),1201,2025/11/16 09:52:56 AM
+D6:B7:09:FA:53:F0,⁣⁣Hidden Network⁣⁣,ZTE,,8,108,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+D6:1A:D1:35:17:83,⁣⁣Hidden Network⁣⁣,Zyxel,,48,104,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+26:A6:5E:31:75:BA,⁣⁣Hidden Network⁣⁣,ZTE,,44,100,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+BA:85:7B:0E:CE:DC,RoseHome,Huawei,,15,60,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),1201,2025/11/16 09:52:56 AM
+66:85:05:9E:43:B5,⁣⁣Hidden Network⁣⁣,ZTE,,6,112,80 MHz,5 GHz,a/n/ac/ax,6,WPA/WPA2 (PSK),1201,2025/11/16 09:50:54 AM
+24:A6:5E:01:75:BA,Manuel-5Ghz,ZTE,,44,100,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+4C:19:5D:D2:BD:DC,Fibertel WiFi000 2.4GHz,Sagemcom Broadband,,40,52,40 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),800,2025/11/16 09:52:56 AM
+90:F8:91:50:0E:11,HAUS OF HAVI 5.8GHz,Kaon Group,,30,52,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+92:2A:A8:82:F1:97,⁣⁣Hidden Network⁣⁣,Ubiquiti Networks,,60,48,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:26 AM
+16:27:F5:E6:DA:8F,⁣⁣Hidden Network⁣⁣,TP-Link,,13,44,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),866.7,2025/11/16 09:52:56 AM
+8E:2A:A8:81:E5:C2,IdiOT,Ubiquiti Networks,,82,6,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:52:56 AM
+6C:BA:B8:FC:81:F9,ATLANTA Newbery,Sagemcom Broadband,,38,60,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+CA:9C:BB:47:06:CD,⁣⁣Hidden Network⁣⁣,T&W Electronics,,8,161,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:51:24 AM
+F2:C4:78:B9:0C:C4,Fibertel WiFi995 2.4GHz,Huawei,,20,157,80 MHz,5 GHz,a/n/ac/ax,6,WPA (PSK),1201,2025/11/16 09:52:26 AM
+7A:EB:46:74:11:24,Personal-669,Huawei,,76,11,20 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),286.8,2025/11/16 09:49:24 AM
+24:A6:5E:01:75:B8,Manuel-2.4Ghz,ZTE,,67,9,20 MHz,2.4 GHz,b/g/n,4,WPA/WPA2 (PSK),144.4,2025/11/16 09:52:56 AM
+8E:2A:A8:82:F1:97,⁣⁣Hidden Network⁣⁣,Ubiquiti Networks,,60,48,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:26 AM
+5C:76:95:4E:B7:50,Fibertel WiFi595 5.8GHz,Vantiva,,6,60,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+10:27:F5:E6:DA:8F,deconet,TP-Link,,10,44,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),866.7,2025/11/16 09:52:40 AM
+58:68:7A:76:9B:F8,Wifi casa,Sagemcom Broadband,,15,157,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),2402,2025/11/16 09:52:56 AM
+5A:68:7A:76:9D:FA,TeleCentro Wifi,Sagemcom Broadband,,15,157,80 MHz,5 GHz,a/n/ac/ax,6,,2402,2025/11/16 09:52:56 AM
+5A:68:7A:76:9D:FC,⁣⁣Hidden Network⁣⁣,Sagemcom Broadband,,15,157,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),2402,2025/11/16 09:52:56 AM
+58:56:C2:0C:1E:78,Personal-305,Huawei,,28,1,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),288.9,2025/11/16 09:50:38 AM
+70:4F:57:D4:99:DD,Fibertel WiFi026 2.4GHz,TP-Link,,55,1,20 MHz,2.4 GHz,b/g/n,4,WPA/WPA2 (PSK),144.4,2025/11/16 09:51:40 AM
+3E:64:CF:72:52:5F,Oficina 20B,TP-Link,,3,36,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:40 AM
+30:93:BC:BB:25:8A,Fibertel WiFi807 2.4GHz,Sagemcom Broadband,,13,52,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+08:7E:64:A8:6D:08,Camila 5.8,Vantiva,,3,52,40 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),800,2025/11/16 09:51:40 AM
+10:27:F5:E6:DA:8E,deconet,TP-Link,,50,5,40 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),300,2025/11/16 09:52:56 AM
+E4:C0:E2:94:39:08,Fibertel WiFi964 5.8GHz,Sagemcom Broadband,,15,157,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+86:2A:A8:82:E5:C2,oficina,Ubiquiti Networks,,87,140,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:56 AM
+C8:33:E5:D6:0C:3C,Personal-134,Huawei,,20,52,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:52:10 AM
+12:EF:15:E1:99:2E,⁣⁣Hidden Network⁣⁣,TP-Link,,36,7,40 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),573.5,2025/11/16 09:48:38 AM
+C6:C9:E3:A1:F7:1F,⁣⁣Hidden Network⁣⁣,TP-Link,,50,36,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),1201,2025/11/16 09:52:40 AM
+0C:EF:15:E1:99:2E,Daniela,TP-Link,,38,7,40 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),573.5,2025/11/16 09:52:56 AM
+9C:A5:70:23:27:E6,Cerundolo,eero,,17,48,160 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),2402,2025/11/16 09:49:08 AM
+AA:50:81:F3:91:30,Personal-987,Huawei,,1,56,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),1201,2025/11/16 09:52:40 AM
+8C:FD:DE:53:72:F1,Personal-D62-2.4GHz-5GHz,Sagemcom Broadband,,10,153,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:50:38 AM
+8E:2A:A8:82:E5:C2,⁣⁣Hidden Network⁣⁣,Ubiquiti Networks,,87,140,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:56 AM
+8A:2A:A8:82:E5:C2,admin,Ubiquiti Networks,,87,140,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:56 AM
+92:2A:A8:82:E5:C2,⁣⁣Hidden Network⁣⁣,Ubiquiti Networks,,86,140,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:56 AM
+9A:2A:A8:82:E5:C2,guest,Ubiquiti Networks,,87,140,80 MHz,5 GHz,a/n/ac,5,,1300,2025/11/16 09:52:56 AM
+6C:BA:B8:FC:81:F8,ATLANTA Newbery,Sagemcom Broadband,,66,11,20 MHz,2.4 GHz,b/g/n,4,WPA/WPA2 (PSK),288.9,2025/11/16 09:52:56 AM
+80:2A:A8:82:E5:C2,cachapa,Ubiquiti Networks,,87,140,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1300,2025/11/16 09:52:56 AM
+5E:76:95:4E:B7:4C,Personal Wifi Zone,Vantiva,,40,1,20 MHz,2.4 GHz,b/g/n,4,,216.7,2025/11/16 09:51:10 AM
+5A:68:7A:76:9C:F1,TeleCentro Wifi,Sagemcom Broadband,,40,10,20 MHz,2.4 GHz,b/g/n/ax,6,,430.1,2025/11/16 09:47:52 AM
+F2:C4:78:73:C3:60,Vero,Huawei,,38,6,20 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),286.8,2025/11/16 09:52:56 AM
+28:9E:FC:02:2E:FD,TeleCentro-2ef7-5G,Sagemcom Broadband,,8,149,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+2A:9E:FC:02:2F:FE,⁣⁣Hidden Network⁣⁣,Sagemcom Broadband,,10,149,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:51:24 AM
+6C:34:91:18:86:48,SurAzul 5.8,Huawei,,17,52,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+90:58:51:8C:DB:38,Fibertel WiFi355 5.8GHz*,Vantiva,,8,52,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+2A:9E:FC:02:2F:FF,TeleCentro Wifi,Sagemcom Broadband,,8,149,80 MHz,5 GHz,a/n/ac,5,,1733.3,2025/11/16 09:51:54 AM
+A8:FF:BA:73:B9:D8,LIDIA WIFI 5.8,Huawei,,6,52,80 MHz,5 GHz,a/n/ac,5,WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+F2:75:0C:62:19:6E,⁣⁣Hidden Network⁣⁣,TP-Link,,34,4,40 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),300,2025/11/16 09:48:52 AM
+C0:C9:E3:A1:F4:7A,Atlanta,TP-Link,,24,8,40 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),573.5,2025/11/16 09:51:10 AM
+F2:C4:78:73:C3:63,Personal Wifi Zone,Huawei,,36,6,20 MHz,2.4 GHz,b/g/n/ax,6,,286.8,2025/11/16 09:48:38 AM
+8A:D8:1B:39:8A:5A,⁣⁣Hidden Network⁣⁣,TP-Link,,48,3,40 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),300,2025/11/16 09:51:40 AM
+8A:2A:A8:81:F1:97,admin,Ubiquiti Networks,,58,11,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:50:24 AM
+D4:B7:09:DA:53:EE,IPLAN-ROCAN75,ZTE,,30,3,20 MHz,2.4 GHz,b/g/n,4,WPA/WPA2 (PSK),130,2025/11/16 09:52:40 AM
+28:9E:FC:02:2E:FC,TeleCentro-2ef7,Sagemcom Broadband,,32,1,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),288.9,2025/11/16 09:48:08 AM
+F2:C4:78:B9:0C:C3,Personal Wifi Zone,Huawei,,28,11,20 MHz,2.4 GHz,b/g/n/ax,6,,286.8,2025/11/16 09:48:22 AM
+7A:EB:46:74:11:27,Personal Wifi Zone,Huawei,,75,11,20 MHz,2.4 GHz,b/g/n/ax,6,,286.8,2025/11/16 09:48:22 AM
+4C:19:5D:D2:BD:DB,Fibertel WiFi000 2.4GHz,Sagemcom Broadband,,48,11,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),288.9,2025/11/16 09:52:56 AM
+D4:B7:09:DA:46:70,9 B-5Ghz,ZTE,,3,108,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),1733.3,2025/11/16 09:52:56 AM
+F2:C4:78:84:5B:4C,Personal-914,Huawei,,20,6,20 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),286.8,2025/11/16 09:49:38 AM
+7A:EB:46:74:11:27,Personal Wifi Zone,Huawei,,66,6,20 MHz,2.4 GHz,b/g/n/ax,6,,286.8,2025/11/16 09:52:56 AM
+7A:EB:46:74:11:24,Personal-669,Huawei,,69,6,20 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),286.8,2025/11/16 09:52:56 AM
+64:85:05:2E:43:B4,Ciori-2.4GHz,ZTE,,32,8,20 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),286.8,2025/11/16 09:51:54 AM
+86:2A:A8:81:F1:97,oficina,Ubiquiti Networks,,53,11,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:52:56 AM
+26:97:45:86:DA:68,Fibertel WiFi345 5.8GHz,Huawei,,6,153,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),1201,2025/11/16 09:52:56 AM
+10:27:F5:E6:DE:26,deconet,TP-Link,,24,5,40 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),300,2025/11/16 09:50:24 AM
+92:2A:A8:81:F1:97,⁣⁣Hidden Network⁣⁣,Ubiquiti Networks,,90,11,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:50:24 AM
+C6:06:C3:D5:FA:92,⁣⁣Hidden Network⁣⁣,TP-Link,,28,7,40 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),300,2025/11/16 09:51:40 AM
+64:85:05:5E:43:B5,Ciori-5.8GHz,ZTE,,3,112,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),1201,2025/11/16 09:51:24 AM
+5C:76:95:4E:B7:48,Fibertel WiFi595 2.4GHz,Vantiva,,44,1,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:51:10 AM
+F2:C4:78:85:2C:17,Personal Wifi Zone,Huawei,,28,11,20 MHz,2.4 GHz,b/g/n/ax,6,,286.8,2025/11/16 09:51:40 AM
+F2:C4:78:71:B1:4C,NEGR@ 2.4,Huawei,,6,161,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),1201,2025/11/16 09:52:56 AM
+B0:FC:36:0A:B8:10,C4F4F7,CyberTAN Technology,,22,6,20 MHz,2.4 GHz,b/g/n,4,WPA/WPA2 (PSK),216.7,2025/11/16 09:52:26 AM
+44:3B:14:70:0C:48,MOVISTAR-WIFI6-0C48,MitraStar Technology,,32,6,20 MHz,2.4 GHz,b/g/n/ax,6,WPA2 (PSK),573.5,2025/11/16 09:52:26 AM
+56:F6:E2:65:17:80,Personal-7AE,Huawei,,10,157,80 MHz,5 GHz,a/n/ac/ax,6,WPA2/WPA3 (PSK/SAE),1201,2025/11/16 09:52:26 AM
+3C:64:CF:C2:52:5F,⁣⁣Hidden Network⁣⁣,TP-Link,,3,36,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),1300,2025/11/16 09:52:40 AM
+0C:EF:15:E1:99:2F,Daniela,TP-Link,,3,44,160 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),2402,2025/11/16 09:52:56 AM
+26:97:45:86:58:78,graciela wifi,Huawei,,3,161,80 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),1201,2025/11/16 09:52:56 AM
+80:2A:A8:81:F1:97,cachapa,Ubiquiti Networks,,58,11,20 MHz,2.4 GHz,b/g/n,4,WPA2 (PSK),216.7,2025/11/16 09:52:56 AM
+12:EF:15:E1:99:2F,⁣⁣Hidden Network⁣⁣,TP-Link,,3,44,160 MHz,5 GHz,a/n/ac/ax,6,WPA2 (PSK),2402,2025/11/16 09:52:56 AM
+E6:C0:E2:94:3A:03,Personal Wifi Zone,Sagemcom Broadband,,32,1,20 MHz,2.4 GHz,b/g/n,4,,288.9,2025/11/16 09:52:56 AM
+B0:FC:36:0A:B8:18,C4F4F7,CyberTAN Technology,,1,56,80 MHz,5 GHz,a/n/ac,5,WPA/WPA2 (PSK),1300,2025/11/16 09:52:56 AM
